@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package br.edu.ifsul.cc.lpoo.compras.lpoo_sistemascompras;
+package br.edu.ifsul.cc.lpoo.compras.lpoo_sistemacompras;
 
 /**
  *
